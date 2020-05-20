@@ -28,12 +28,13 @@ mix deps.get && npm --prefix assets install
 mix phx.server
 ```
 
-or just execute after clone the repo and change directory to auction_umbrella:
+or just execute command below after clone the repo and change directory to auction_umbrella:
 
 ```bash
 bash setup.sh
 ```
 
+application will run on port 4000
 
 ## for example:
 
