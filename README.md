@@ -28,7 +28,7 @@ mix deps.get && npm --prefix assets install
 mix phx.server
 ```
 
-or just execute:
+or just execute after clone the repo and change directory to auction_umbrella:
 
 ```bash
 bash setup.sh
